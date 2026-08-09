@@ -4,6 +4,9 @@
 
 ## 在线导入 - 加速链接
 
+xunhuisi
+https://ghproxy.net/raw.githubusercontent.com/kiseding/xunhuisiapi/refs/heads/main/%E5%B7%A1%E5%9B%9E%E5%AF%BA-%E4%BB%85tx-128k-320k.js
+
 
 ### Huibq
 ```
